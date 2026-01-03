@@ -48,3 +48,5 @@ function kgToLbs(weight: number | string) : number {
     }
 }
 
+console.log("automation")
+
